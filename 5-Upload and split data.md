@@ -15,3 +15,16 @@ import pandas as pd
 import joblib
 import argparse
 ```
+
+
+![a](https://user-images.githubusercontent.com/78825764/204805788-5ef309fd-d6dd-42cf-a8c5-f9c4104f05dc.PNG)
+---
+- **Read the data and print the columns :**
+
+```
+data=pd.read_csv("./diabetes.csv")
+print(data.columns)
+```
+![a](https://user-images.githubusercontent.com/78825764/204807437-3d8a94c5-b3be-40f7-afc4-c10f09546fea.PNG)
+
+
