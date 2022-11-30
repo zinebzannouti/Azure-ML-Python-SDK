@@ -27,4 +27,12 @@ print(data.columns)
 ```
 ![a](https://user-images.githubusercontent.com/78825764/204807437-3d8a94c5-b3be-40f7-afc4-c10f09546fea.PNG)
 
+- **Split the data :**
+```
+X=data.iloc[:,:-1]
+y=data.iloc[:,-1]
+trainx,testx,trainy,testy=train_test_split(X, y, random_state=101, test_size=0.2)
+```
+![a](https://user-images.githubusercontent.com/78825764/204808945-01d07952-84a0-402d-8f67-5ea8f3e8206d.PNG)
+---
 
