@@ -18,6 +18,9 @@ config=ScriptRunConfig(source_directory="./",script="mytrain.py",compute_target=
 execution=exp.submit(config)
 execution.wait_for_completion(show_output=True)
 ```
+---
+
+![a](https://user-images.githubusercontent.com/78825764/204797417-8d2577cf-b126-476c-a001-85cc433c9377.PNG)
 
 ## **Visualiser l'expérience qu'on a crée :**
 
