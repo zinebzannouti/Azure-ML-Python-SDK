@@ -1,15 +1,28 @@
 # Implement and train the Model :
 
 
-- **Ajouter le script train.py comme vous avez déja fais avec envfile.yml .**
 
----
-![a](https://user-images.githubusercontent.com/78825764/204792103-557b0811-5fa2-4025-a2da-7218dd4d8787.PNG)
----
 
 - **Upload la data diabetes.csv :**
 ---
 ![a](https://user-images.githubusercontent.com/78825764/204796840-7acae84c-7c81-4687-a9d9-a53875a7bbb2.PNG)
+
+---
+
+- **Importer les bibliothèques qu'on va utilisé :**
+```
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report,confusion_matrix,accuracy_score,auc
+import pandas as pd
+import joblib
+import argparse
+```
+
+- **Ajouter le script train.py comme vous avez déja fais avec envfile.yml .**
+
+---
+![a](https://user-images.githubusercontent.com/78825764/204792103-557b0811-5fa2-4025-a2da-7218dd4d8787.PNG)
 ---
 - **Exécuter le script train.py :**
 
@@ -28,3 +41,10 @@ execution.wait_for_completion(show_output=True)
 
 
 ![a](https://user-images.githubusercontent.com/78825764/204795989-097543fe-a083-4bab-92b3-2c7b8c7ccda0.PNG)
+---
+- **Vous pouvez s'assurer que le status est Completed
+
+![a](https://user-images.githubusercontent.com/78825764/204798340-6eadce19-1381-408b-a300-caf7a8ace81c.PNG)
+---
+
+- **
