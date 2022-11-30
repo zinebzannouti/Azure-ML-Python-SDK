@@ -47,6 +47,31 @@
 
 ![ajouter un conteneur](https://user-images.githubusercontent.com/78825764/204761841-112b32d0-ea36-4a4c-8bb1-e7f2dc2fa552.PNG)
 
-- ##**Vérifier+créer:**
+- ## **Vérifier+créer:**
+---
 
 ![verifier+creer](https://user-images.githubusercontent.com/78825764/204764670-4a53c284-c5fb-4aea-9dfb-d03767ee07ac.PNG)
+
+---
+
+- ## **Créer:**
+---
+
+![a](https://user-images.githubusercontent.com/78825764/204767127-38df0aeb-fdf4-4827-b1ef-34b7f4392b6d.PNG)
+
+---
+
+- ## **Accéder à la ressource:**
+
+---
+
+
+
+![Accéder à la ressource](https://user-images.githubusercontent.com/78825764/204767356-49aedf7e-36bf-4739-8757-a0a564f88b2a.PNG)
+
+
+
+
+
+
+
