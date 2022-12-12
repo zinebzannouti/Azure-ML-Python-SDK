@@ -11,7 +11,7 @@
 ![a](https://user-images.githubusercontent.com/78825764/204836351-2a22b65a-f1d9-4452-9f5e-8170b90280d7.PNG)
 ---
 
-- **Here you can see the REST API created , we can tested on postman for instance:**
+- **Here you can see the REST API created , we can test it on postman for instance:**
 
 ---
 ![a](https://user-images.githubusercontent.com/78825764/204838941-1715d90b-8d0f-4673-82df-d076cd86a627.PNG)
